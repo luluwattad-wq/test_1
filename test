@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>تجربة الإرسال</title>
+</head>
+<body>
+
+    <form action="https://send.pageclip.co/akI6LYCec28vPW4aB4yGck5S9N6vDyu7/freefall" method="post">
+        <h2>هذا فحص سريع للرابط</h2>
+        <input type="text" name="Test_Message" placeholder="اكتبي أي كلمة هنا...">
+        <button type="submit">إرسال للتجربة</button>
+    </form>
+
+</body>
+</html>
