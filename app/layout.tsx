@@ -12,11 +12,7 @@ export const metadata: Metadata = {
   description: "صوّر سؤال الفيزياء واحصل على شرح الحل خطوة بخطوة",
   manifest: "/manifest.json",
   icons: {
-    icon: [
-      { url: "/icon-192.png", sizes: "192x192", type: "image/png" },
-      { url: "/icon-512.png", sizes: "512x512", type: "image/png" },
-    ],
-    apple: "/apple-touch-icon.png",
+    icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
   },
 };
 
