@@ -1,0 +1,14 @@
+{
+  "name": "مساعد حل الفيزياء",
+  "short_name": "حل الفيزياء",
+  "description": "صوّر سؤال الفيزياء واحصل على شرح الحل خطوة بخطوة",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#1d4ed8",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
